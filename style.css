@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeeggibility;
+}
+body {
+  background-color:beige;
+}
+
+hr {
+  width:37px;
+  height:10px;
+  color:#000;
+}
